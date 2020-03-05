@@ -2,16 +2,21 @@
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Sawka-2019-201"
+    ],
+    "dc:identifier": "https://www.sil.org/resources/publications/entry/80878",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
+    "dc:title": "Toka-Leya of Zambia: Southern Province: Livingstone, Kazungula, Zimba, and Kalomo Districts",
     "dcat:accessURL": "https://github.com/lexibank/sawkatokaleya",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/sawkatokaleya",
-            "dc:created": "d94fb1b"
+            "dc:created": "d1044b7"
         },
         {
             "rdf:type": "prov:Entity",
@@ -23,7 +28,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a-170-ge5f8de2"
+            "dc:created": "v2.2.1a-296-g90269eb"
         },
         {
             "rdf:type": "prov:Entity",
@@ -237,6 +242,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Category"
                     }
                 ],
                 "primaryKey": [

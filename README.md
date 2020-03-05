@@ -1,5 +1,10 @@
-# Dataset sawkatokaleya
+# Toka-Leya of Zambia: Southern Province: Livingstone, Kazungula, Zimba, and Kalomo Districts
 
+Available online at https://www.sil.org/resources/publications/entry/80878
+
+
+Conceptlists in Concepticon:
+- [Sawka-2019-201](https://concepticon.clld.org/contributions/Sawka-2019-201)
 ## Statistics
 
 

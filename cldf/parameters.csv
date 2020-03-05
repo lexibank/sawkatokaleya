@@ -1,202 +1,202 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss
-1_hand,hand,1277,HAND
-2_arm,arm,1673,ARM
-3_armpit,armpit,1886,ARMPIT
-4_back,back,1291,BACK
-5_backbone,backbone,805,SPINE
-6_beard,beard,678,BEARD
-7_belly,belly,1251,BELLY
-8_blood,blood,946,BLOOD
-9_body,body,1480,BODY
-10_bone,bone,1394,BONE
-11_breasts,breast(s),1402,BREAST
-12_cheek,cheek,1730,CHEEK
-13_chin,chin,1510,CHIN
-14_ear,ear,1247,EAR
-15_eye,eye,1248,EYE
-16_eyebrow,eyebrow,1173,EYEBROW
-17_eyelash,eyelash,1540,EYELASH
-18_finger,finger,1303,FINGER
-19_fingernail,fingernail,1258,FINGERNAIL
-20_foot,foot,1301,FOOT
-21_hair,hair,1040,HAIR
-22_head,head,1256,HEAD
-23_heart,heart,1223,HEART
-24_jawbone,jawbone,798,JAW
-25_knee,knee,1371,KNEE
-26_leg,leg,1297,LEG
-27_liver,liver,1224,LIVER
-28_lung,lung,688,LUNG
-29_mouth,mouth,674,MOUTH
-30_neck,neck,1333,NECK
-31_nose,nose,1221,NOSE
-32_skin,skin,763,SKIN
-33_sore,sore,51,SORE
-34_tail,tail,1220,TAIL
-35_tongue,tongue,1205,TONGUE
-36_tooth,tooth,1380,TOOTH
-37_voice,voice,1363,VOICE
-38_wing,wing,1257,WING
-39_one,one,1493,ONE
-40_two,two,1498,TWO
-41_three,three,492,THREE
-42_four,four,1500,FOUR
-43_five,five,493,FIVE
-44_six,six,1703,SIX
-45_seven,seven,1704,SEVEN
-46_eight,eight,1705,EIGHT
-47_nine,nine,1483,NINE
-48_ten,ten,1515,TEN
-49_few,few,1242,FEW
-50_many,many,1198,MANY
-51_bee,bee,665,BEE
-52_bird,bird,937,BIRD
-53_buffalo,buffalo,934,BUFFALO
-54_cat,cat,1208,CAT
-55_crocodile,crocodile,1857,CROCODILE
-56_dog,dog,2009,DOG
-57_elephant,elephant,1290,ELEPHANT
-58_fish,fish,227,FISH
-59_goat,goat,1502,GOAT
-60_headlouse,head louse,310,HEAD LOUSE
-61_hippo,hippo,3145,HIPPOPOTAMUS
-62_lion,lion,1386,LION
-63_rhino,rhino,2591,RHINOCEROS
-64_snake,snake,730,SNAKE
-65_spider,spider,843,SPIDER
-66_wildanimal,wild animal,958,WILD ANIMAL
-67_bull,bull,1008,BULL
-68_calf,calf,1989,CALF
-69_cow,cow,1007,COW
-70_chicken,chicken,1318,CHICKEN
-71_cock,cock,1511,ROOSTER
-72_arrow,arrow,977,ARROW
-73_ash,ash,646,ASH
-74_axe,axe,677,AXE
-75_barkoftree,bark (of tree),1204,BARK
-76_burden,burden,1679,LOAD
-77_chair,chair,1476,CHAIR
-78_cloud,cloud,1489,CLOUD
-79_cookingpot,cooking pot,3653,COOKING POT
-80_darkness,darkness,11,DARKNESS
-81_daytime,day time,1225,DAY (NOT NIGHT)
-82_dew,dew,1977,DEW
-83_dust,dust,2,DUST
-84_earth,earth,1228,EARTH (SOIL)
-85_egg,egg,744,EGG
-86_feather,feather,1201,FEATHER
-87_field,field,212,FIELD
-88_fingermillet,finger millet,3265,FINGER MILLET
-89_fire,fire,221,FIRE
-90_firewood,firewood,10,FIREWOOD
-91_flower,flower,239,FLOWER
-92_grass,grass,606,GRASS
-93_hardship,hardship,,
-94_hoe,hoe,284,HOE
-95_hole,hole,1667,HOLE
-96_honey,honey,942,HONEY
-97_house,house,1252,HOUSE
-98_hunger,hunger,1864,HUNGER
-99_iron,iron,621,IRON
-100_knife,knife,1352,KNIFE
-101_knot,knot,760,KNOT
-102_lake,lake,624,LAKE
-103_light,light,630,LIGHT (RADIATION)
-104_meat,meat,634,MEAT
-105_medicine,medicine,1372,MEDICINE
-106_milk,milk,635,MILK
-107_month,month,1370,MONTH
-108_moon,moon,1313,MOON
-109_mountain,mountain,639,MOUNTAIN
-110_mourningsadness,mourning - sadness,3673,MOURNING
-111_name,name,1405,NAME
-112_night,night,1233,NIGHT
-113_path,path,2252,PATH
-114_porridge,porridge,1167,GRUEL
-115_rain,rain,658,RAIN (PRECIPITATION)
-116_river,river,666,RIVER
-117_root,root,670,ROOT
-118_rope,rope,1218,ROPE
-119_salt,salt,1274,SALT
-120_sand,sand,671,SAND
-121_seed,seed,714,SEED
-122_shade,shade,1388,SHADE
-123_sickness,sickness,1986,DISEASE
-124_sky,sky,1732,SKY
-125_smoke,smoke,778,SMOKE (EXHAUST)
-126_spear,spear,945,SPEAR
-127_star,star,1430,STAR
-128_stone,stone,857,STONE
-129_stool,stool,2058,STOOL
-130_sun,sun,1343,SUN
-131_thing,thing,738,THING
-132_thirst,thirst,848,THIRST
-133_thorn,thorn,124,THORN
-134_thread,thread,1161,THREAD
-135_today,today,1283,TODAY
-136_tomorrow,tomorrow,1329,TOMORROW
-137_untensil,untensil,,
-138_village,village,930,VILLAGE
-139_walkingstick,walking stick,1296,WALKING STICK
-140_wall,wall,,
-141_war,war,935,WAR
-142_water,water,948,WATER
-143_what,what,1236,WHAT
-144_windnoun,wind [noun],960,WIND
-145_year,year,1226,YEAR
-146_yesterday,yesterday,1174,YESTERDAY
-147_bigknife,big knife,,
-148_branch,branch,1531,BRANCH
-149_leaf,leaf,628,LEAF
-150_tree,tree,906,TREE
-151_sit,sit,1416,SIT
-152_brother,brother,1262,BROTHER
-153_brotheryounger,brother-younger,1760,YOUNGER BROTHER
-154_brotherolder,brother-older,1759,OLDER BROTHER
-155_chief,chief,301,CHIEFTAIN
-156_child,child,2099,CHILD
-157_daughter,daughter,1357,DAUGHTER
-158_enemy,enemy,1358,ENEMY
-159_father,father,1217,FATHER
-160_god,God,3231,DEITY
-161_husband,husband,1200,HUSBAND
-162_man,man,1554,MAN
-163_mother,mother,1216,MOTHER
-164_mothersbrother,mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER)
-165_person,person,683,PERSON
-166_son,son,1620,SON
-167_twins,twins,1005,TWINS
-168_who,who,1235,WHO
-169_wife,wife,1199,WIFE
-170_woman,woman,962,WOMAN
-171_bad,bad,1292,BAD
-172_big,big,1202,BIG
-173_black,black,163,BLACK
-174_cold,cold,1287,COLD
-175_difficult,difficult,584,DIFFICULT
-176_dirty,dirty,1230,DIRTY
-177_dry,dry,1398,DRY
-178_dull,dull,379,BLUNT
-179_easy,easy,686,EASY
-180_full,full,1429,FULL
-181_good,good,1035,GOOD
-182_heavy,heavy,1210,HEAVY
-183_hot,hot,1286,HOT
-184_long,long,1203,LONG
-185_narrow,narrow,1267,NARROW
-186_new,new,1231,NEW
-187_red,red,156,RED
-188_rotten,rotten,1728,ROTTEN
-189_sharp,sharp,1396,SHARP
-190_short,short,1645,SHORT
-191_small,small,1246,SMALL
-192_wet,wet,1726,WET
-193_white,white,1335,WHITE
-194_wide,wide,1243,WIDE
-195_far,far,1406,FAR
-196_inside,inside,1606,INSIDE
-197_near,near,1942,NEAR
-198_outside,outside,762,OUTSIDE
-199_leftside,leftside,244,LEFT
-200_rightside,rightside,1019,RIGHT
-201_why,why,1270,WHY
+ID,Name,Concepticon_ID,Concepticon_Gloss,Category
+1_hand,hand,1277,HAND,Body Part
+2_arm,arm,1673,ARM,Body Part
+3_armpit,armpit,1886,ARMPIT,Body Part
+4_back,back,1291,BACK,Body Part
+5_backbone,backbone,805,SPINE,Body Part
+6_beard,beard,678,BEARD,Body Part
+7_belly,belly,1251,BELLY,Body Part
+8_blood,blood,946,BLOOD,Body Part
+9_body,body,1480,BODY,Body Part
+10_bone,bone,1394,BONE,Body Part
+11_breasts,breast(s),1402,BREAST,Body Part
+12_cheek,cheek,1730,CHEEK,Body Part
+13_chin,chin,1510,CHIN,Body Part
+14_ear,ear,1247,EAR,Body Part
+15_eye,eye,1248,EYE,Body Part
+16_eyebrow,eyebrow,1173,EYEBROW,Body Part
+17_eyelash,eyelash,1540,EYELASH,Body Part
+18_finger,finger,1303,FINGER,Body Part
+19_fingernail,fingernail,1258,FINGERNAIL,Body Part
+20_foot,foot,1301,FOOT,Body Part
+21_hair,hair,1040,HAIR,Body Part
+22_head,head,1256,HEAD,Body Part
+23_heart,heart,1223,HEART,Body Part
+24_jawbone,jawbone,798,JAW,Body Part
+25_knee,knee,1371,KNEE,Body Part
+26_leg,leg,1297,LEG,Body Part
+27_liver,liver,1224,LIVER,Body Part
+28_lung,lung,688,LUNG,Body Part
+29_mouth,mouth,674,MOUTH,Body Part
+30_neck,neck,1333,NECK,Body Part
+31_nose,nose,1221,NOSE,Body Part
+32_skin,skin,763,SKIN,Body Part
+33_sore,sore,51,SORE,Body Part
+34_tail,tail,1220,TAIL,Body Part
+35_tongue,tongue,1205,TONGUE,Body Part
+36_tooth,tooth,1380,TOOTH,Body Part
+37_voice,voice,1363,VOICE,Body Part
+38_wing,wing,1257,WING,Body Part
+39_one,one,1493,ONE,number
+40_two,two,1498,TWO,number
+41_three,three,492,THREE,number
+42_four,four,1500,FOUR,number
+43_five,five,493,FIVE,number
+44_six,six,1703,SIX,number
+45_seven,seven,1704,SEVEN,number
+46_eight,eight,1705,EIGHT,number
+47_nine,nine,1483,NINE,number
+48_ten,ten,1515,TEN,number
+49_few,few,1242,FEW,number
+50_many,many,1198,MANY,number
+51_bee,bee,665,BEE,animal
+52_bird,bird,937,BIRD,animal
+53_buffalo,buffalo,934,BUFFALO,animal
+54_cat,cat,1208,CAT,animal
+55_crocodile,crocodile,1857,CROCODILE,animal
+56_dog,dog,2009,DOG,animal
+57_elephant,elephant,1290,ELEPHANT,animal
+58_fish,fish,227,FISH,animal
+59_goat,goat,1502,GOAT,animal
+60_headlouse,head louse,310,HEAD LOUSE,animal
+61_hippo,hippo,3145,HIPPOPOTAMUS,animal
+62_lion,lion,1386,LION,animal
+63_rhino,rhino,2591,RHINOCEROS,animal
+64_snake,snake,730,SNAKE,animal
+65_spider,spider,843,SPIDER,animal
+66_wildanimal,wild animal,958,WILD ANIMAL,animal
+67_bull,bull,1008,BULL,animal
+68_calf,calf,1989,CALF,animal
+69_cow,cow,1007,COW,animal
+70_chicken,chicken,1318,CHICKEN,animal
+71_cock,cock,1511,ROOSTER,animal
+72_arrow,arrow,977,ARROW,thing
+73_ash,ash,646,ASH,thing
+74_axe,axe,677,AXE,thing
+75_barkoftree,bark (of tree),1204,BARK,thing
+76_burden,burden,1679,LOAD,thing
+77_chair,chair,1476,CHAIR,thing
+78_cloud,cloud,1489,CLOUD,thing
+79_cookingpot,cooking pot,3653,COOKING POT,thing
+80_darkness,darkness,11,DARKNESS,thing
+81_daytime,day time,1225,DAY (NOT NIGHT),thing
+82_dew,dew,1977,DEW,thing
+83_dust,dust,2,DUST,thing
+84_earth,earth,1228,EARTH (SOIL),thing
+85_egg,egg,744,EGG,thing
+86_feather,feather,1201,FEATHER,thing
+87_field,field,212,FIELD,thing
+88_fingermillet,finger millet,3265,FINGER MILLET,thing
+89_fire,fire,221,FIRE,thing
+90_firewood,firewood,10,FIREWOOD,thing
+91_flower,flower,239,FLOWER,thing
+92_grass,grass,606,GRASS,thing
+93_hardship,hardship,,,thing
+94_hoe,hoe,284,HOE,thing
+95_hole,hole,1667,HOLE,thing
+96_honey,honey,942,HONEY,thing
+97_house,house,1252,HOUSE,thing
+98_hunger,hunger,1864,HUNGER,thing
+99_iron,iron,621,IRON,thing
+100_knife,knife,1352,KNIFE,thing
+101_knot,knot,760,KNOT,thing
+102_lake,lake,624,LAKE,thing
+103_light,light,630,LIGHT (RADIATION),thing
+104_meat,meat,634,MEAT,thing
+105_medicine,medicine,1372,MEDICINE,thing
+106_milk,milk,635,MILK,thing
+107_month,month,1370,MONTH,thing
+108_moon,moon,1313,MOON,thing
+109_mountain,mountain,639,MOUNTAIN,thing
+110_mourningsadness,mourning - sadness,3673,MOURNING,thing
+111_name,name,1405,NAME,thing
+112_night,night,1233,NIGHT,thing
+113_path,path,2252,PATH,thing
+114_porridge,porridge,3651,MUSH (FOOD),thing
+115_rain,rain,658,RAIN (PRECIPITATION),thing
+116_river,river,666,RIVER,thing
+117_root,root,670,ROOT,thing
+118_rope,rope,1218,ROPE,thing
+119_salt,salt,1274,SALT,thing
+120_sand,sand,671,SAND,thing
+121_seed,seed,714,SEED,thing
+122_shade,shade,1388,SHADE,thing
+123_sickness,sickness,1986,DISEASE,thing
+124_sky,sky,1732,SKY,thing
+125_smoke,smoke,778,SMOKE (EXHAUST),thing
+126_spear,spear,945,SPEAR,thing
+127_star,star,1430,STAR,thing
+128_stone,stone,857,STONE,thing
+129_stool,stool,2058,STOOL,thing
+130_sun,sun,1343,SUN,thing
+131_thing,thing,738,THING,thing
+132_thirst,thirst,848,THIRST,thing
+133_thorn,thorn,124,THORN,thing
+134_thread,thread,1161,THREAD,thing
+135_today,today,1283,TODAY,thing
+136_tomorrow,tomorrow,1329,TOMORROW,thing
+137_utensil,utensil,,,thing
+138_village,village,930,VILLAGE,thing
+139_walkingstick,walking stick,1296,WALKING STICK,thing
+140_wall,wall,,,thing
+141_war,war,935,WAR,thing
+142_water,water,948,WATER,thing
+143_what,what,1236,WHAT,thing
+144_windnoun,wind [noun],960,WIND,thing
+145_year,year,1226,YEAR,thing
+146_yesterday,yesterday,1174,YESTERDAY,thing
+147_bigknife,big knife,,,thing & adjective
+148_branch,branch,1531,BRANCH,thing
+149_leaf,leaf,628,LEAF,thing
+150_tree,tree,906,TREE,thing
+151_sit,sit,1416,SIT,verb
+152_brother,brother,1262,BROTHER,person
+153_brotheryounger,brother - younger,1760,YOUNGER BROTHER,
+154_brotherolder,brother - older,1759,OLDER BROTHER,
+155_chief,chief,301,CHIEFTAIN,person
+156_child,child,2099,CHILD,person
+157_daughter,daughter,1357,DAUGHTER,person
+158_enemy,enemy,1358,ENEMY,person
+159_father,father,1217,FATHER,person
+160_god,God,1944,GOD,person
+161_husband,husband,1200,HUSBAND,person
+162_man,man,1554,MAN,person
+163_mother,mother,1216,MOTHER,person
+164_mothersbrother,mother’s brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER),person
+165_person,person,683,PERSON,person
+166_son,son,1620,SON,person
+167_twins,twins,1005,TWINS,person
+168_who,who,1235,WHO,person
+169_wife,wife,1199,WIFE,person
+170_woman,woman,962,WOMAN,person
+171_bad,bad,1292,BAD,adjective
+172_big,big,1202,BIG,adjective
+173_black,black,163,BLACK,adjective
+174_cold,cold,1287,COLD,adjective
+175_difficult,difficult,584,DIFFICULT,adjective
+176_dirty,dirty,1230,DIRTY,adjective
+177_dry,dry,1398,DRY,adjective
+178_dull,dull,379,BLUNT,adjective
+179_easy,easy,686,EASY,adjective
+180_full,full,1429,FULL,adjective
+181_good,good,1035,GOOD,adjective
+182_heavy,heavy,1210,HEAVY,adjective
+183_hot,hot,1286,HOT,adjective
+184_long,long,1203,LONG,adjective
+185_narrow,narrow,1267,NARROW,adjective
+186_new,new,1231,NEW,adjective
+187_red,red,156,RED,adjective
+188_rotten,rotten,1728,ROTTEN,adjective
+189_sharp,sharp,1396,SHARP,adjective
+190_short,short,1645,SHORT,adjective
+191_small,small,1246,SMALL,adjective
+192_wet,wet,1726,WET,adjective
+193_white,white,1335,WHITE,adjective
+194_wide,wide,1243,WIDE,adjective
+195_far,far,1406,FAR,location
+196_inside,inside,1606,INSIDE,location
+197_near,near,1942,NEAR,location
+198_outside,outside,762,OUTSIDE,location
+199_leftside,leftside,244,LEFT,location
+200_rightside,rightside,1019,RIGHT,location
+201_why,why,1270,WHY,concept

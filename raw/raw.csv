@@ -151,8 +151,8 @@ leaf,thing,Itu,igani,igani,igani,igani,igani,Ituhu,litali,tsamba,libizi,mabidi
 tree,thing,cisamu,musamu,musamu,musamu,musamu,musamu,cisamu,kota,mtengo,mutondo,shitondo
 sit,verb,kala,kala,kala,kala,kala,kala,kala,siino,khala,ikala,ikala
 brother,person,,mukwesu,mukwesu,muziyawama,,,mukwesu,muhulwani,mbale,mphanzami,bakondo bami
-brother-younger,,,,,,mwenje,mwence,,,,mukonzowami,mukondowami
-brother-older,,,,,,mukulana,mupati,,,,yaya,yaya
+brother - younger,,,,,,mwenje,mwence,,,,mukonzowami,mukondowami
+brother - older,,,,,,mukulana,mupati,,,,yaya,yaya
 chief,person,mwami,mwami,mwami,mwami,mwami,mwami,mwami,mulena,mfumu,mwene,mwene
 child,person,mwana,mwana,mwana,mwana,mwana,mwana,mwana,mwana,mwana,kanuke,mwana
 daughter,person,,mwana musimbi,mwana musimbi,mwana musimbi,mwana musimbi,mwana musimbi,mwana mushimbi,mwana ni musizani,mwana wamkadzi,mwana wamuzi,mwana wambeleki
@@ -162,7 +162,7 @@ God,person,Leza,leza,leza,leza,leza,leza,Leza,mulimu,Mulungu,nyambi,nyambi
 husband,person,mulumi,mulumi,mulumi,mulumi,mulumi,mulumi,mulumi,muuna,mwamuna,munthu wami,bamunthu wami
 man,person,musankwa,malumi,malumi,malumi,malumi,malumi,mulombwana,muuna,mwamuna,mulume,mulume
 mother,person,baama,maama,maama,nyina,maama,baama,baama,boma,amai,mawa,bamawa
-mother's brother,person,Aisya,siminzyesu,siminzyesu,siminzyesu,aisya,siminzyesu,acisha,malume,amalume,kanyanthu,kanyanthu
+mother’s brother,person,Aisya,siminzyesu,siminzyesu,siminzyesu,aisya,siminzyesu,acisha,malume,amalume,kanyanthu,kanyanthu
 person,person,muntu,muntu,muntu,muntu,muntu,muntu,muntu,mutu,munthu,munthu,munthu
 son,person,mwana,mwana mosankwa,mwana mosankwa,mwana mosankwa,mwana mosankwa,mwana mosankwa,mweembezi,mwan mushimani,mwana wamwamuna,mwana wamulume,mwana mimulume
 twins,person,,mbambile,mbambile,maanga,mampundu,mbambile,maanga,mapundu,amapasa,bambuyu,bambuyu
