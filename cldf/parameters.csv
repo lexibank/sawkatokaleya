@@ -135,7 +135,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Category
 134_thread,thread,1161,THREAD,thing
 135_today,today,1283,TODAY,thing
 136_tomorrow,tomorrow,1329,TOMORROW,thing
-137_utensil,utensil,,,thing
+137_utensil,utensil,1361,TOOL,thing
 138_village,village,930,VILLAGE,thing
 139_walkingstick,walking stick,1296,WALKING STICK,thing
 140_wall,wall,,,thing

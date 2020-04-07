@@ -10,7 +10,7 @@ Conceptlists in Concepticon:
 
 [![Build Status](https://travis-ci.org/lexibank/sawkatokaleya.svg?branch=master)](https://travis-ci.org/lexibank/sawkatokaleya)
 ![Glottolog: 54%](https://img.shields.io/badge/Glottolog-54%25-red.svg "Glottolog: 54%")
-![Concepticon: 98%](https://img.shields.io/badge/Concepticon-98%25-green.svg "Concepticon: 98%")
+![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-green.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 11
