@@ -1,9 +1,9 @@
 {
     "id": "sawkatokaleya",
-    "title": "Toka-Leya of Zambia: Southern Province: Livingstone, Kazungula, Zimba, and Kalomo Districts",
+    "title": "CLDF dataset derived from Sawka et al.'s \"Toka-Leya of Zambia\" from 2019",
     "description": null,
     "license": null,
     "url": "https://www.sil.org/resources/publications/entry/80878",
-    "citation": null,
+    "citation": "Sawka, Kenneth S. and Mbewe, Christopher and Josephat, Daka and Schwertfeger, Jacob (2019): Toka-Leya of Zambia: Southern Province: Livingstone, Kazungula, Zimba, and Kalomo District. SIL International.",
     "conceptlist": ["Sawka-2019-201"]
 }
