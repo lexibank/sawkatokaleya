@@ -1,10 +1,10 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
 Tonga,Tonga,tong1318,Tonga (Zambia),toi,Africa,-17.42,27.1,Atlantic-Congo
-MukuniMarch,Mukuni-March,,,,Africa,-17.905369,25.937401,
-Mukuni,Mukuni,,,,Africa,-17.905369,25.937401,
-Sekute2013,Sekute 2013,,,,Africa,-17.653196,25.634457,
-Sekute,Sekute,,,,Africa,-17.653196,25.634457,
-Musukotwani,Musukotwani,,,,Africa,-17.615317,25.883419,
+MukuniMarch,Mukuni-March,lenj1248,Lenje,leh,Africa,-17.905369,25.937401,Atlantic-Congo
+Mukuni,Mukuni,lenj1248,Lenje,leh,Africa,-17.905369,25.937401,Atlantic-Congo
+Sekute2013,Sekute 2013,seku1239,Sekute,,Africa,-17.653196,25.634457,Atlantic-Congo
+Sekute,Sekute,seku1239,Sekute,,Africa,-17.653196,25.634457,Atlantic-Congo
+Musukotwani,Musukotwani,musu1242,Musukotwani,,Africa,-17.615317,25.883419,Atlantic-Congo
 Ila,Ila,ilaa1246,Ila,ilb,Africa,-15.61,26.46,Atlantic-Congo
 Lozi,Lozi,lozi1239,Lozi,loz,Africa,-17.71,24.74,Atlantic-Congo
 Chewa,Chewa,nyan1308,Nyanja,nya,Africa,-14.8,32.81,Atlantic-Congo

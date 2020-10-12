@@ -3,13 +3,16 @@ import pylexibank
 from clldutils.path import Path
 from clldutils.misc import slug
 
+
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
     Category = attr.ib(default=None)
 
+
 @attr.s
 class CustomConcept(pylexibank.Concept):
     Category = attr.ib(default=None)
+
 
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
@@ -31,7 +34,7 @@ class Dataset(pylexibank.Dataset):
 
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx=concept.number + "_" + slug(concept.english)
+            idx = concept.number + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
                 Category=concept.attributes['category'],

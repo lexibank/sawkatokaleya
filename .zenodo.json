@@ -1,0 +1,30 @@
+{
+    "title": "CLDF dataset derived from Sawka et al.'s \"Toka-Leya of Zambia\" from 2019",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Kristina Pianykh"
+        },
+        {
+            "name": "Carolin Hundt"
+        },
+        {
+            "name": "Christoph Rzymski"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Sawka, Kenneth S. and Mbewe, Christopher and Josephat, Daka and Schwertfeger, Jacob (2019): Toka-Leya of Zambia: Southern Province: Livingstone, Kazungula, Zimba, and Kalomo District. SIL International.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
