@@ -7,16 +7,32 @@
     ],
     "creators": [
         {
-            "name": "Kristina Pianykh"
+            "name": "Kenneth S. Sawka"
         },
         {
-            "name": "Carolin Hundt"
+            "name": "Christopher Mbewe"
         },
         {
-            "name": "Christoph Rzymski"
+            "name": "Daka Josephat"
+        },
+        {
+            "name": "Jacob Schwertfege"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Kristina Pianykh",
+            "type": "Other"
+        },
+        {
+            "name": "Carolin Hundt",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
