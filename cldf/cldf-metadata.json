@@ -12,12 +12,11 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Sawka et al.'s \"Toka-Leya of Zambia\" from 2019",
-    "dcat:accessURL": "https://lingulist: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@github.com/lexibank/sawkatokaleya",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://lingulist: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@github.com/lexibank/sawkatokaleya",
+            "rdf:about": "sawkatokaleya",
             "rdf:type": "prov:Entity",
-            "dc:created": "442f23e",
+            "dc:created": "996ae49",
             "dc:title": "Repository"
         },
         {
