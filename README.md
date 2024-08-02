@@ -1,5 +1,7 @@
 # CLDF dataset derived from Sawka et al.'s "Toka-Leya of Zambia" from 2019
 
+[![CLDF validation](https://github.com/lexibank/sawkatokaleya/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sawkatokaleya/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -20,34 +22,34 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/sawkatokaleya.svg?branch=master)](https://travis-ci.org/lexibank/sawkatokaleya)
+[![CLDF validation](https://github.com/lexibank/sawkatokaleya/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/sawkatokaleya/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 11
-- **Concepts:** 201
+- **Varieties:** 11 (linked to 8 different Glottocodes)
+- **Concepts:** 201 (linked to 199 different Concepticon concept sets)
 - **Lexemes:** 2,166
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
 - **Tokens:** 11,882
-- **Segments:** 84 (0 BIPA errors, 0 CTLS sound class errors, 84 CLTS modified)
+- **Segments:** 84 (0 BIPA errors, 0 CLTS sound class errors, 84 CLTS modified)
 - **Inventory size (avg):** 51.18
 
 # Contributors
 
 Name               | GitHub user          | Description                          | Role
 ---                | ---                  | ---                                  | ---
-Kristina Pianykh   | @Kristina-Pianykh    | code, concepts, languages            | Other 
-Carolin Hundt      | @CarolinHu           | concepts, languages                  | Other 
-Christoph Rzymski  | @chrzyki             | patron, code                         | Other 
-Kenneth S. Sawka  | | data collection | Author
-Christopher Mbewe | | data collection | Author 
-Daka Josephat     | | data collection | Author 
-Jacob Schwertfege | | data collection | Author 
+Kristina Pianykh   | @Kristina-Pianykh    | code, concepts, languages            | Other
+Carolin Hundt      | @CarolinHu           | concepts, languages                  | Other
+Christoph Rzymski  | @chrzyki             | patron, code                         | Editor
+Kenneth S. Sawka   | | data collection | Author
+Christopher Mbewe  | | data collection | Author
+Daka Josephat      | | data collection | Author
+Jacob Schwertfeger | | data collection | Author
 
 
 
